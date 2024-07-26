@@ -57,3 +57,12 @@ img {
 	color: var(--wpe--color--white);
 	background-color: var(--wpe--color--accent);
 }
+.wp-block-buttons > .wp-block-button {
+	background-color: var(--wpe--color--accent);
+	color: var(--wpe--color--white);
+	border-radius: 5rem;
+	padding: 0 25px
+}
+.wp-block-buttons > .wp-block-button:hover {
+	opacity: 0.9;
+}
