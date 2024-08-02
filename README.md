@@ -7,7 +7,7 @@ Welcome to the experimental Faust getting started example.
 1. Create WP instance using Local WP or use existing instance on server
 
 2. Install required plugins
-    - Faust JS https://wordpress.org/plugins/faustwp/  (add http//:localhost:3000 or other port under Faust plugin settings)
+    - Faust JS https://wordpress.org/plugins/faustwp/  (add http//:localhost:3000 or other port under Faust plugin settings: Front-end site URL)
     - WPGraphQL https://wordpress.org/plugins/wp-graphql/ 
     - WPGraphQL content blocks https://github.com/wpengine/wp-graphql-content-blocks  (only needed for custom block dev)
 
